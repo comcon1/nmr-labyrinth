@@ -1,6 +1,8 @@
 [submodule "nmr-flood-gate"]
-	path = nmr-flood-gate
-	url = https://github.com/comcon1/nmr-flood-gate
+  path = nmr-flood-gate
+  url = https://github.com/comcon1/nmr-flood-gate
 [submodule "stm32-firmware"]
-	path = stm32-firmware
-	url = https://github.com/pmamonov/stm32f103c8t6
+  path = stm32-firmware
+  url = https://github.com/pmamonov/stm32f103c8t6
+  branch = maze
+        
