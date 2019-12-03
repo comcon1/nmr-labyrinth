@@ -6,3 +6,6 @@
   url = https://github.com/pmamonov/stm32f103c8t6
   branch = maze
         
+[submodule "beam-gate-controller"]
+	path = beam-gate-controller
+	url = https://github.com/kuzmin-ilya/beam-gate-controller
